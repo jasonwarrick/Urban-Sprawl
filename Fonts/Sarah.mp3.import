@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Sarah.mp3-38065884af7efd37753d5074fed78f38.mp3str"
+
+[deps]
+
+source_file="res://Fonts/Sarah.mp3"
+dest_files=[ "res://.import/Sarah.mp3-38065884af7efd37753d5074fed78f38.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
